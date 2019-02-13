@@ -27,11 +27,3 @@ function VigenèreCipher(key, abc) {
     return decodedString;
   };
 }
-
-/* var abc, key;
-abc = "abcdefghijklmnopqrstuvwxyz";
-key = "password"
-c = new VigenèreCipher(key, abc);
-
-console.log(c.encode('codewars'))
-console.log(c.decode('rovwsoiv')) */
