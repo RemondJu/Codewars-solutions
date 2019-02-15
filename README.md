@@ -16,9 +16,11 @@ My solutions for codewars katas in javascript language
 
   * [Persistent Bugger.](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/PersistentBugger.js)
   * [Rectangle into Squares](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/PersistentBugger.js)
+  * [Playing With Digits](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/PlayingWithDigits.js)
 
 ## 7th Kyu katas
 
+  * [Digital cyper](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/DigitalCypher.js)
 ## 8th Kyu katas
 
 Check on my [Codewars profile](https://www.codewars.com/users/RemondJu)
