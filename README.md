@@ -8,7 +8,7 @@ My solutions for codewars katas in javascript language
 
 ## 5th Kyu katas
 
-  * [Can you get the loop ?](https://github.com/RemondJu/Codewars-solutions/blob/master/5th%20kyu/CanYouGetTheLoop.Js)
+  * [Can you get the loop?](https://github.com/RemondJu/Codewars-solutions/blob/master/5th%20kyu/CanYouGetTheLoop.Js)
   * [Perimeter of squares in a rectangle](https://github.com/RemondJu/Codewars-solutions/blob/master/5th%20kyu/Perimeters.js)
   * [Weight for weight](https://github.com/RemondJu/Codewars-solutions/blob/master/5th%20kyu/WeightForWeight.js)
 
@@ -22,6 +22,7 @@ My solutions for codewars katas in javascript language
 ## 7th Kyu katas
 
   * [Digital cyper](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/DigitalCypher.js)
+  * [Largest 5 digit number in a series](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/Largest5DigitsNumberInASeries.js)
   
 ## 8th Kyu katas
 
