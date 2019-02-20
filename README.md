@@ -22,7 +22,8 @@ My solutions for codewars katas in javascript language
 ## 7th Kyu katas
 
   * [Digital cyper](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/DigitalCypher.js)
-
+  * [Largest 5 digit number in a series](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/Largest5DigitsNumberInASeries.js)
+  
 ## 8th Kyu katas
 
 Check on my [Codewars profile](https://www.codewars.com/users/RemondJu)
