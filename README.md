@@ -11,6 +11,7 @@ My solutions for codewars katas in javascript language
   * [Can you get the loop?](https://github.com/RemondJu/Codewars-solutions/blob/master/5th%20kyu/CanYouGetTheLoop.Js)
   * [Perimeter of squares in a rectangle](https://github.com/RemondJu/Codewars-solutions/blob/master/5th%20kyu/Perimeters.js)
   * [Weight for weight](https://github.com/RemondJu/Codewars-solutions/blob/master/5th%20kyu/WeightForWeight.js)
+  * [Integers: Recreation One](https://github.com/RemondJu/Codewars-solutions/blob/master/5th%20kyu/IntegersRecreationOne.js)
 
 ## 6th Kyu katas
 
