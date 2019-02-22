@@ -12,6 +12,7 @@ My solutions for codewars katas in javascript language
   * [Perimeter of squares in a rectangle](https://github.com/RemondJu/Codewars-solutions/blob/master/5th%20kyu/Perimeters.js)
   * [Weight for weight](https://github.com/RemondJu/Codewars-solutions/blob/master/5th%20kyu/WeightForWeight.js)
   * [Integers: Recreation One](https://github.com/RemondJu/Codewars-solutions/blob/master/5th%20kyu/IntegersRecreationOne.js)
+  * [Directions Reduction](https://github.com/RemondJu/Codewars-solutions/blob/master/5th%20kyu/DirectionsReduction.js)
 
 ## 6th Kyu katas
 
