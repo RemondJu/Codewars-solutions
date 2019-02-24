@@ -27,6 +27,7 @@ My solutions for codewars katas in javascript language
   * [Largest 5 digit number in a series](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/Largest5DigitsNumberInASeries.js)
   * [Folding your way to the moon](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/FoldingYourWayToTheMoon.js)
   * [Boiled Eggs](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/BoiledEggs.js)
+  * [Are the numbers in order?](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/AreTheNumbersInOrder.js)
   
 ## 8th Kyu katas
 
