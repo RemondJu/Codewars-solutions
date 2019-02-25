@@ -30,5 +30,6 @@ My solutions for codewars katas in javascript language
   * [Are the numbers in order?](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/AreTheNumbersInOrder.js)
   
 ## 8th Kyu katas
+  * [Fuel Calculator](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/FuelCalculator.js)
 
 Check on my [Codewars profile](https://www.codewars.com/users/RemondJu)
