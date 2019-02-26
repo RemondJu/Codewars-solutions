@@ -28,6 +28,7 @@ My solutions for codewars katas in javascript language
   * [Folding your way to the moon](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/FoldingYourWayToTheMoon.js)
   * [Boiled Eggs](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/BoiledEggs.js)
   * [Are the numbers in order?](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/AreTheNumbersInOrder.js)
+  * [Sum of the first nth term of Series](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/SumOfTheFirstNthOfSeries.js)
   
 ## 8th Kyu katas
   * [Fuel Calculator](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/FuelCalculator.js)
