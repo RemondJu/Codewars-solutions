@@ -32,5 +32,6 @@ My solutions for codewars katas in javascript language
   
 ## 8th Kyu katas
   * [Fuel Calculator](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/FuelCalculator.js)
+  * [Dollars and Cents](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/DollarsAndCents.js)
 
 Check on my [Codewars profile](https://www.codewars.com/users/RemondJu)
