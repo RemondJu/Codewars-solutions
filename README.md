@@ -20,6 +20,7 @@ My solutions for codewars katas in javascript language
   * [Rectangle into Squares](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/PersistentBugger.js)
   * [Playing With Digits](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/PlayingWithDigits.js)
   * [Which are in?](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/WhichAreIn.js)
+  * [Tortoise racing](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/TortoiseRacing.js)
 
 ## 7th Kyu katas
 
