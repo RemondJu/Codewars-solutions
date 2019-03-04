@@ -37,5 +37,6 @@ My solutions for codewars katas in javascript language
   * [Fuel Calculator](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/FuelCalculator.js)
   * [Dollars and Cents](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/DollarsAndCents.js)
   * [Invert values](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/InvertValues.js)
+  * [Keep Hydrated!](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/KeepHydrated.js)
 
 Check on my [Codewars profile](https://www.codewars.com/users/RemondJu)
