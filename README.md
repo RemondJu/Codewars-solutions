@@ -23,6 +23,7 @@ My solutions for codewars katas in javascript language
   * [Tortoise racing](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/TortoiseRacing.js)
   * [Build a pile of Cubes](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/BuildAPileOfCubes.js)
   * [Consecutive strings](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/ConsecutiveStrings.js)
+  * [Are they the "same"?](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/AreTheyTheSame.js)
 
 ## 7th Kyu katas
 
