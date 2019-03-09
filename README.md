@@ -24,6 +24,7 @@ My solutions for codewars katas in javascript language
   * [Build a pile of Cubes](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/BuildAPileOfCubes.js)
   * [Consecutive strings](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/ConsecutiveStrings.js)
   * [Are they the "same"?](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/AreTheyTheSame.js)
+  * [Count the smiley faces!](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/CountTheSmileyFaces.js)
 
 ## 7th Kyu katas
 
