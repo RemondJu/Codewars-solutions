@@ -25,6 +25,7 @@ My solutions for codewars katas in javascript language
   * [Consecutive strings](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/ConsecutiveStrings.js)
   * [Are they the "same"?](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/AreTheyTheSame.js)
   * [Count the smiley faces!](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/CountTheSmileyFaces.js)
+  * [Convert string to camel case](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/ConvertStringToCamelCase.js)
 
 ## 7th Kyu katas
 
