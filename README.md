@@ -26,6 +26,7 @@ My solutions for codewars katas in javascript language
   * [Are they the "same"?](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/AreTheyTheSame.js)
   * [Count the smiley faces!](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/CountTheSmileyFaces.js)
   * [Convert string to camel case](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/ConvertStringToCamelCase.js)
+  * [Duplicate Encoder](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/DuplicateEncoder.js)
 
 ## 7th Kyu katas
 
