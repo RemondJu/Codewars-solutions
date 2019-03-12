@@ -27,6 +27,7 @@ My solutions for codewars katas in javascript language
   * [Count the smiley faces!](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/CountTheSmileyFaces.js)
   * [Convert string to camel case](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/ConvertStringToCamelCase.js)
   * [Duplicate Encoder](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/DuplicateEncoder.js)
+  * [Find the odd int](https://github.com/RemondJu/Codewars-solutions/blob/master/6th%20kyu/FindTheOddInt.js)
 
 ## 7th Kyu katas
 
