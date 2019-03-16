@@ -41,6 +41,7 @@ My solutions for codewars katas in javascript language
   * [Mumbling](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/Mumbling.js)
   * [Jaden Casing Strings](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/JadenCasingStrings.js)
   * [Get the Middle Character](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/GetTheMiddleCharacter.js)
+  * [Vowel Count](https://github.com/RemondJu/Codewars-solutions/blob/master/7th%20kyu/VowelCount.js)
   
 ## 8th Kyu katas
   * [Fuel Calculator](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/FuelCalculator.js)
