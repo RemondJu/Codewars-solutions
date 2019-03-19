@@ -51,5 +51,6 @@ My solutions for codewars katas in javascript language
   * [Count of positives / sum of negatives](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/CountOfPositivesSumOfNegatives.js)
   * [Basic Mathematical Operations](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/BasicMathematicalOperations.js)
   * [Remove First and Last Character](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/RemoveFirstAndLastCharacter.js)
+  * [Convert boolean values to strings 'Yes' or 'No'.](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/ConvertBooleanValuesToStrings.js)
 
 Check on my [Codewars profile](https://www.codewars.com/users/RemondJu)
