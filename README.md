@@ -54,5 +54,6 @@ My solutions for codewars katas in javascript language
   * [Convert boolean values to strings 'Yes' or 'No'.](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/ConvertBooleanValuesToStrings.js)
   * [Jenny's secret message](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/JennyssSecretMessage.js)
   * [String repeat](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/StringRepeat.js)
+  * [Even or Odd](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/EvenOrOdd.js)
 
 Check on my [Codewars profile](https://www.codewars.com/users/RemondJu)
