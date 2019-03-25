@@ -56,5 +56,6 @@ My solutions for codewars katas in javascript language
   * [String repeat](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/StringRepeat.js)
   * [Even or Odd](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/EvenOrOdd.js)
   * [Opposite number](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/OppositeNumber.js)
+  * [Multiply](https://github.com/RemondJu/Codewars-solutions/blob/master/8th%20kyu/Multiply.js)
 
 Check on my [Codewars profile](https://www.codewars.com/users/RemondJu)
